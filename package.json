@@ -1,0 +1,25 @@
+{
+  "name": "mintbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TiagoAbila/MintBot.git"
+  },
+  "author": "Tiago Abila",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TiagoAbila/MintBot/issues"
+  },
+  "homepage": "https://github.com/TiagoAbila/MintBot#readme",
+  "dependencies": {
+    "discord.js": "^14.6.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.28.0"
+  }
+}
